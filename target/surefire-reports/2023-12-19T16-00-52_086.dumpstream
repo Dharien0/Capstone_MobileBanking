@@ -1,0 +1,18 @@
+# Created at 2023-12-19T16:00:53.078
+SLF4J: Class path contains multiple SLF4J bindings.
+
+# Created at 2023-12-19T16:00:53.078
+SLF4J: Found binding in [jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/guicedee/services/sl4j/1.0.13.5/sl4j-1.0.13.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-12-19T16:00:53.078
+SLF4J: Found binding in [jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.4/browserstack-java-sdk-1.12.4.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-12-19T16:00:53.079
+SLF4J: Found binding in [jar:file:/C:/Windows/System32/config/systemprofile/.m2/repository/com/browserstack/browserstack-java-sdk/1.12.4/browserstack-java-sdk-1.12.4.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+
+# Created at 2023-12-19T16:00:53.079
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+
+# Created at 2023-12-19T16:00:53.080
+SLF4J: Actual binding is of type [org.apache.logging.slf4j.Log4jLoggerFactory]
+

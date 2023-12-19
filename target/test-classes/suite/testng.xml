@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="MB01_ValidateLoginPage">
+    <classes>
+		<class name="scripts.MB01_ValidateLoginPage"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="MB02_ValidateCheckTransfer">
+    <classes>
+		<class name="scripts.MB02_ValidateCheckTransfer"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="MB03_ValidateBankTransfer">
+    <classes>
+		<class name="scripts.MB03_ValidateBankTransfer"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="MB04_ValidateWithdrawalAmount">
+    <classes>
+		<class name="scripts.MB04_ValidateWithdrawalAmount"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+
+
+

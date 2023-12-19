@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T16:00:53 CST" name="Suite" finished-at="2023-12-19T16:03:56 CST" duration-ms="182261">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T16:00:53 CST" name="MB01_ValidateLoginPage" finished-at="2023-12-19T16:01:35 CST" duration-ms="41241">
+      <class name="scripts.MB01_ValidateLoginPage">
+        <test-method is-config="true" signature="setUpRunEnv()[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b]" started-at="2023-12-19T16:00:53 CST" name="setUpRunEnv" finished-at="2023-12-19T16:01:17 CST" duration-ms="23572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRunEnv -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b]" started-at="2023-12-19T16:01:17 CST" name="beforeMethod" finished-at="2023-12-19T16:01:17 CST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.MB01_ValidateLoginPage.MB_01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MB_01()[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b]" started-at="2023-12-19T16:01:17 CST" name="MB_01" finished-at="2023-12-19T16:01:30 CST" duration-ms="13412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MB_01 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b]" started-at="2023-12-19T16:01:30 CST" name="afterMethod" finished-at="2023-12-19T16:01:30 CST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MB_01 status=SUCCESS method=MB01_ValidateLoginPage.MB_01()[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.MB01_ValidateLoginPage@76b0ae1b]" started-at="2023-12-19T16:01:30 CST" name="tearDown" finished-at="2023-12-19T16:01:35 CST" duration-ms="4242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.MB01_ValidateLoginPage -->
+    </test> <!-- MB01_ValidateLoginPage -->
+    <test started-at="2023-12-19T16:01:35 CST" name="MB02_ValidateCheckTransfer" finished-at="2023-12-19T16:02:23 CST" duration-ms="48336">
+      <class name="scripts.MB02_ValidateCheckTransfer">
+        <test-method is-config="true" signature="setUpRunEnv()[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea]" started-at="2023-12-19T16:01:35 CST" name="setUpRunEnv" finished-at="2023-12-19T16:01:55 CST" duration-ms="20682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRunEnv -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea]" started-at="2023-12-19T16:01:55 CST" name="beforeMethod" finished-at="2023-12-19T16:01:55 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.MB02_ValidateCheckTransfer.MB_02() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MB_02()[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea]" started-at="2023-12-19T16:01:55 CST" name="MB_02" finished-at="2023-12-19T16:02:20 CST" duration-ms="24494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MB_02 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea]" started-at="2023-12-19T16:02:20 CST" name="afterMethod" finished-at="2023-12-19T16:02:20 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MB_02 status=SUCCESS method=MB02_ValidateCheckTransfer.MB_02()[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.MB02_ValidateCheckTransfer@5fa47fea]" started-at="2023-12-19T16:02:20 CST" name="tearDown" finished-at="2023-12-19T16:02:23 CST" duration-ms="3157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.MB02_ValidateCheckTransfer -->
+    </test> <!-- MB02_ValidateCheckTransfer -->
+    <test started-at="2023-12-19T16:02:23 CST" name="MB03_ValidateBankTransfer" finished-at="2023-12-19T16:03:12 CST" duration-ms="48632">
+      <class name="scripts.MB03_ValidateBankTransfer">
+        <test-method is-config="true" signature="setUpRunEnv()[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2]" started-at="2023-12-19T16:02:23 CST" name="setUpRunEnv" finished-at="2023-12-19T16:02:45 CST" duration-ms="21664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRunEnv -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2]" started-at="2023-12-19T16:02:45 CST" name="beforeMethod" finished-at="2023-12-19T16:02:45 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.MB03_ValidateBankTransfer.MB_03() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MB_03()[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2]" started-at="2023-12-19T16:02:45 CST" name="MB_03" finished-at="2023-12-19T16:03:08 CST" duration-ms="23048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MB_03 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2]" started-at="2023-12-19T16:03:08 CST" name="afterMethod" finished-at="2023-12-19T16:03:08 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MB_03 status=SUCCESS method=MB03_ValidateBankTransfer.MB_03()[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.MB03_ValidateBankTransfer@22fa55b2]" started-at="2023-12-19T16:03:08 CST" name="tearDown" finished-at="2023-12-19T16:03:12 CST" duration-ms="3917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.MB03_ValidateBankTransfer -->
+    </test> <!-- MB03_ValidateBankTransfer -->
+    <test started-at="2023-12-19T16:03:12 CST" name="MB04_ValidateWithdrawalAmount" finished-at="2023-12-19T16:03:56 CST" duration-ms="44036">
+      <class name="scripts.MB04_ValidateWithdrawalAmount">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:00:53 CST" name="setupReport" finished-at="2023-12-19T16:00:53 CST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="setUpRunEnv()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:12 CST" name="setUpRunEnv" finished-at="2023-12-19T16:03:34 CST" duration-ms="21888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpRunEnv -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:34 CST" name="beforeMethod" finished-at="2023-12-19T16:03:34 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts.MB04_ValidateWithdrawalAmount.MB_04() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MB_04()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:34 CST" name="MB_04" finished-at="2023-12-19T16:03:52 CST" duration-ms="17958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MB_04 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:52 CST" name="afterMethod" finished-at="2023-12-19T16:03:52 CST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MB_04 status=SUCCESS method=MB04_ValidateWithdrawalAmount.MB_04()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:52 CST" name="tearDown" finished-at="2023-12-19T16:03:56 CST" duration-ms="4189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:scripts.MB04_ValidateWithdrawalAmount@79c3f01f]" started-at="2023-12-19T16:03:56 CST" name="endTest" finished-at="2023-12-19T16:03:56 CST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- scripts.MB04_ValidateWithdrawalAmount -->
+    </test> <!-- MB04_ValidateWithdrawalAmount -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+	<configuration>
+		<theme>dark</theme>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>General Store Flow</documentTitle>
+		<reportName>Mobile Automation</reportName>
+		<reportHeadline>Extent Report</reportHeadline>
+		<dateFormat>MM-dd-yyyy</dateFormat>
+		<timeFormat>HH:mm:ss</timeFormat>
+		
+		<scripts>
+			<![CDATA[
+				$(docuent).ready(function() {}); 
+			]]>
+		</scripts>
+		
+		<styles>
+			<![CDATA[ 
+			
+			]]>
+		</styles>
+			
+					
+	</configuration>
+	
+</extentreports>

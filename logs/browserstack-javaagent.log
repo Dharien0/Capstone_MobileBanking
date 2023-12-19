@@ -1,0 +1,466 @@
+22:43:17.465 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+22:43:17.468 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+22:43:17.643 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+22:43:17.693 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:43:17.934 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+22:43:21.108 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+22:43:21.111 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+22:43:21.111 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:43:26.731 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+22:43:32.471 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+22:44:28.707 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ydtygqij7hyttxspmvy9mbvhuttqidwuj4q7lzix to view build report, insights, and many more debugging information all at one place!
+
+22:44:29.795 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c05c99b71985c638e09e7e0e3a20aedccc601da5
+22:44:29.795 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:44:30.804 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:26:22.861 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:26:22.865 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:26:23.162 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:26:23.246 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:26:23.560 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:26:28.209 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:26:28.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:26:28.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:26:34.138 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:26:41.763 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:27:22.575 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mltgdsd4nzhhz4vfe0ko7oebkdrlc3b2548v9njs to view build report, insights, and many more debugging information all at one place!
+
+02:27:23.436 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/506e4c9018a5587bd5948f1a05e95bdaad80de86
+02:27:23.437 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:27:26.417 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:32:18.335 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:32:18.342 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:32:18.619 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:32:18.686 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:32:19.037 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:32:23.518 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:32:23.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:32:23.519 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:32:28.943 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:32:34.855 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:33:02.540 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/kmfhoyr61jyzsiqqw5ph2tz86dlsph1cj84czszc to view build report, insights, and many more debugging information all at one place!
+
+02:33:03.427 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/f4395e9c808cb8d08a3d4a4faf059631f5b53bcc
+02:33:03.427 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:33:04.304 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:34:09.344 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:34:09.347 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:34:09.613 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:34:09.682 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:34:10.024 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:34:14.591 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:34:14.592 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:34:14.593 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:34:19.896 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:34:25.379 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:35:03.841 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fg06j1g1wgdrvjlk3mepdogdu4s7iz474xnzghtn to view build report, insights, and many more debugging information all at one place!
+
+02:35:04.625 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/7afb38fd13839c6a58c58e57fb6ec5ff8ba78876
+02:35:04.625 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:35:05.676 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:46:48.287 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:46:48.291 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:46:48.549 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:46:48.613 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:46:48.965 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:46:53.490 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:46:53.491 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:46:53.491 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:46:58.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:47:06.463 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:48:03.124 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ka8skppaekbxvwl1brrmwz1gpv7tvhysycexigb0 to view build report, insights, and many more debugging information all at one place!
+
+02:48:04.106 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0d4e817451759acfe41bbf7059cfcd42c4eb1c0f
+02:48:04.106 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:48:05.427 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:53:24.419 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:53:24.425 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:53:24.792 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:53:24.902 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:53:25.338 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:53:30.449 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:53:30.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:53:30.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:53:37.377 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:53:43.984 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:54:47.619 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/6j6lc6qs0j3un0ft0z7apg9loryg91vm048wl9og to view build report, insights, and many more debugging information all at one place!
+
+02:54:48.668 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/51452cbc5547f4d9841226a517461f0533e92d8d
+02:54:48.669 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:54:49.799 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:55:58.227 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:55:58.233 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:55:58.575 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:55:58.659 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:55:59.156 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:56:04.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:56:04.023 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:56:04.023 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:56:10.202 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:56:17.244 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:56:50.192 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5ekt49tlbw89v8kifvmgctwvjdn4bxguf5ggjnoo to view build report, insights, and many more debugging information all at one place!
+
+02:56:51.117 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/5d76306b618dc5134ddb325ef3b9dd90e8f70df8
+02:56:51.117 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:56:52.153 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+02:57:43.745 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+02:57:43.749 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+02:57:44.120 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+02:57:44.174 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+02:57:44.504 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+02:57:49.210 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+02:57:49.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+02:57:49.213 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+02:57:55.173 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+02:58:03.453 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+02:58:38.369 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lib8l3bcg083agz5ge8oq5mqwottycrfmbdsamoy to view build report, insights, and many more debugging information all at one place!
+
+02:58:39.659 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/46fbfcb1268f56c4905482449df5602d5742aa94
+02:58:39.659 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+02:58:40.645 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:00:21.190 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:00:21.194 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:00:21.413 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:00:21.511 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:00:21.865 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:00:26.577 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:00:26.580 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:00:26.580 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:00:33.379 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:00:39.675 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:01:17.253 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/goetje9xkw7f5earb7qfrzdlwh0ywygkn1nd08mt to view build report, insights, and many more debugging information all at one place!
+
+03:01:19.031 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:01:19.508 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/3c0f3729c8c8ba6f06c7b133ea3824b62d831df6
+03:01:19.509 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:02:46.767 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:02:46.770 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:02:47.018 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:02:47.153 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:02:47.684 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:02:52.652 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:02:52.655 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:02:52.655 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:02:58.944 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:03:05.192 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:03:36.103 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/uhc1pq5ou7bblakd1m2nwyfa4qoy2u3jwjgkdycc to view build report, insights, and many more debugging information all at one place!
+
+03:03:37.031 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/dab0c61ad1f5078cb942232631a89257b7bf2240
+03:03:37.031 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:03:38.589 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:14:06.366 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:14:06.370 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:14:06.620 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:14:06.675 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:14:07.094 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:14:12.434 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:14:12.435 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:14:12.435 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:14:18.784 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:14:25.449 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:15:57.490 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/cgdxstvxzzhfpvmynfuckar84ka2tbhk175hrgug to view build report, insights, and many more debugging information all at one place!
+
+03:15:58.515 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/ade546357d29c92f782e987d1ca7bc0730c5ebd4
+03:15:58.515 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:16:00.093 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:17:36.176 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:17:36.182 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:17:36.489 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:17:36.570 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:17:37.014 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:17:41.840 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:17:41.841 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:17:41.841 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:17:47.651 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:17:56.788 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:19:32.771 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/brus0dnx1lcalkdx7f77hg8yoib7ucl7kvdwgco7 to view build report, insights, and many more debugging information all at one place!
+
+03:19:33.865 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/80a04af00f64c6a4e1ca9d4879ddaf4410766fb8
+03:19:33.865 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:19:34.940 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:22:24.776 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:22:24.780 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:22:25.086 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:22:25.245 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:22:25.786 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:22:30.619 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:22:30.622 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:22:30.623 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:22:36.867 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:22:43.436 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:24:08.507 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/erqmbuhntqvtop7qtpkl9g0ptcanl3tnrah63ehc to view build report, insights, and many more debugging information all at one place!
+
+03:24:09.517 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/0b2f7434c3dc966dd90b5f514175bc526bb57d0b
+03:24:09.518 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:24:10.832 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+03:46:49.163 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+03:46:49.167 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+03:46:49.426 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+03:46:49.507 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+03:46:49.941 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+03:46:54.739 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+03:46:54.741 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+03:46:54.741 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+03:47:01.295 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+03:47:07.983 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+03:47:41.529 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lrqg8maqsgucydadpsgzswoqxlwovwv2a5jnqjna to view build report, insights, and many more debugging information all at one place!
+
+03:47:42.352 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/314e86c601c3058af3e79ef7b9f7a0572600f1ae
+03:47:42.353 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+03:47:44.554 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:01:25.694 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:01:25.697 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+04:01:25.965 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:01:26.047 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:01:26.354 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:01:31.593 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:01:31.594 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:01:31.595 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:01:37.663 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:01:44.599 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:02:45.830 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/cfvqfvv7fgyjajlu554g8sjcxu9yeh70bsy6ucpa to view build report, insights, and many more debugging information all at one place!
+
+04:02:46.757 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/79c23690647536502483b33ffb1bf4ed7beb7709
+04:02:46.758 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:02:48.324 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:08:13.429 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:08:13.434 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+04:08:13.647 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:08:13.703 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:08:14.021 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:08:18.757 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:08:18.758 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:08:18.759 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:08:24.390 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:08:30.514 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:09:36.739 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xlr64oxdfjjyooj6oucrvhluvmcgqg1xfp3ubttw to view build report, insights, and many more debugging information all at one place!
+
+04:09:37.639 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/88dba4853ccb5eda6e6496f0769845c3b9ca2727
+04:09:37.639 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:09:38.926 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:10:24.787 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:10:24.789 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+04:10:25.056 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:10:25.118 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:10:25.495 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:10:30.079 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:10:30.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:10:30.080 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:10:35.470 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:10:40.829 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:11:20.362 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jgmuvmyb7zscwb17zv0uvg4eswxk7koxhcls5nng to view build report, insights, and many more debugging information all at one place!
+
+04:11:21.436 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/674331039aa82095d91e58928913785a341180d2
+04:11:21.436 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:11:22.748 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:14:49.330 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:14:49.333 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+04:14:49.675 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:14:49.761 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:14:50.181 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:14:54.831 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:14:54.833 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:14:54.834 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:15:00.173 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:15:05.869 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:15:33.645 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lxyrpcibcry10pbaen9xv2uzzap1dwgh3zxsvszl to view build report, insights, and many more debugging information all at one place!
+
+04:15:34.510 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/bfed11df82945e055669c37a96d1f8d5165a89b4
+04:15:34.510 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:15:35.851 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:22:49.616 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:22:49.619 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+04:22:49.911 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:22:49.979 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:22:50.352 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:22:55.063 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:22:55.065 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:22:55.065 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:23:00.558 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:23:06.711 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:23:41.631 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wq5pvddpom3wr4jllmj6hketcp9g8xojvt80hfuq to view build report, insights, and many more debugging information all at one place!
+
+04:23:42.483 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/4331fda6f43d2445210a80a0738d38fdca5b0f66
+04:23:42.483 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:23:43.588 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:31:41.257 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+04:31:41.260 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+04:31:41.526 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:31:41.595 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:31:41.947 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:31:44.883 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:31:44.886 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:31:44.886 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:31:50.660 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:31:56.236 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:31:58.349 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/rqjji6tlignxh2cpky1eaedf9ilskc917hqmoqg9 to view build report, insights, and many more debugging information all at one place!
+
+04:31:59.996 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:33:31.877 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+04:33:31.880 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+04:33:32.143 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:33:32.208 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:33:32.534 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:33:36.976 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:33:36.978 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:33:36.979 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:33:42.088 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:33:48.047 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:33:49.994 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/qrga6zhnip6lkuei9urdw5fvflvzigfwqn1muk30 to view build report, insights, and many more debugging information all at one place!
+
+04:33:51.567 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:35:45.101 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+04:35:45.107 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+04:35:45.429 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:35:45.506 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:35:45.899 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:35:50.616 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:35:50.616 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:35:50.616 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:35:56.149 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:36:03.024 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:36:06.146 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pfdw3w4ynaf8uogyskjokp549nmg6hrfxrm22esj to view build report, insights, and many more debugging information all at one place!
+
+04:36:07.156 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:36:38.880 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+04:36:38.885 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+04:36:39.154 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:36:39.215 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:36:39.548 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:36:42.632 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:36:42.634 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:36:42.634 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:36:47.606 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:36:53.592 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:36:55.403 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/sql7xifvxmlvq6dh7ehfyznboincxnjo1xscvusx to view build report, insights, and many more debugging information all at one place!
+
+04:36:56.890 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+04:39:18.118 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+04:39:18.122 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.6.0
+04:39:18.498 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+04:39:18.588 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+04:39:19.077 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+04:39:23.733 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+04:39:23.734 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+04:39:23.734 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+04:39:29.230 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+04:39:37.025 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+04:40:05.067 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fdxv1rdoyqx3fbyvm1p4yi0fhbwahqwaku1dd2e4 to view build report, insights, and many more debugging information all at one place!
+
+04:40:05.856 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c90d3d9a19ecc85faa6dfd38b08537e419d87e05
+04:40:05.857 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+04:40:07.227 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+05:39:46.372 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+05:39:46.376 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+05:39:46.832 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+05:39:46.951 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+05:39:47.550 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+05:39:52.945 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+05:39:52.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+05:39:52.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+05:40:00.392 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+05:40:09.208 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+05:40:09.943 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dhtfupnuxsfgqaotad8oqahanm68u6v2mbofa2fz to view build report, insights, and many more debugging information all at one place!
+
+05:40:12.620 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+05:42:02.760 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+05:42:02.765 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+05:42:03.089 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+05:42:03.161 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+05:42:03.568 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+05:42:06.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+05:42:06.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+05:42:06.480 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+05:42:12.926 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+05:42:20.399 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+05:42:23.062 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/b4uhzen6qvpftwfbcsas8zddbubbmy3rvv9eoyaz to view build report, insights, and many more debugging information all at one place!
+
+05:42:24.829 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+05:44:47.296 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.15.0
+05:44:47.303 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 9.0.0
+05:44:47.634 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+05:44:47.721 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+05:44:48.092 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+05:44:53.084 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+05:44:53.086 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+05:44:53.086 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+05:44:59.258 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+05:45:07.789 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+05:45:10.666 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7msgdhvhy6nngy5yipjssuufqmlq8r05tthahanx to view build report, insights, and many more debugging information all at one place!
+
+05:45:12.562 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+05:47:51.662 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+05:47:51.666 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+05:47:51.984 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\User\IdeaProjects\testng-appium-app-browserstack-sdk2\testng-appium-app-browserstack-sdk\android\testng-examples\browserstack.yml
+05:47:52.070 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+05:47:52.457 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./mobilebanking.apk to browserstack
+05:47:57.281 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/f1494aee824a7abf51f9fe70340c0d2d80b30bd8"}
+05:47:57.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://f1494aee824a7abf51f9fe70340c0d2d80b30bd8]
+05:47:57.282 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+05:48:03.907 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+05:48:10.265 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+05:50:49.538 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/swej21fdr2cv3not0qkzxtnsgopfsopbiy2omctg to view build report, insights, and many more debugging information all at one place!
+
+05:50:50.457 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/c6ee3d1ddf27a22b6c5f1966352c834871c60a67
+05:50:50.458 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+05:50:53.361 [Thread-3] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+20:54:27.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+20:54:27.816 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+20:54:28.153 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+20:54:28.154 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\User\IdeaProjects\androidTesting\testng-appium-app-browserstack-sdk\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:54:28.155 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\User\IdeaProjects\androidTesting\testng-appium-app-browserstack-sdk\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+20:57:31.638 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+20:57:31.645 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+20:57:31.930 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+20:57:31.930 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\User\IdeaProjects\androidTesting\testng-appium-app-browserstack-sdk\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+20:57:31.931 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\User\IdeaProjects\androidTesting\testng-appium-app-browserstack-sdk\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+15:52:59.061 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+15:52:59.064 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+15:52:59.213 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+15:52:59.213 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\COLLABERA.DIGITAL\Documents\Dharien_Files\androidTestingCompletedV\testng-appium-app-browserstack-sdk_Completed\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+15:52:59.214 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\COLLABERA.DIGITAL\Documents\Dharien_Files\androidTestingCompletedV\testng-appium-app-browserstack-sdk_Completed\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+
+16:00:53.407 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.13.0
+16:00:53.410 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 8.3.0
+16:00:53.566 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\browserstack.yml
+16:00:53.566 [main] ERROR c.b.config.BrowserStackConfig - [Invalid Path] Config file does not exist at any parent directory of C:\Users\COLLABERA.DIGITAL\Documents\Dharien_Files\androidTestingCompletedV\testng-appium-app-browserstack-sdk_Completed\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+16:00:53.567 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.RuntimeException: [Invalid Path] Config file does not exist at any parent directory of C:\Users\COLLABERA.DIGITAL\Documents\Dharien_Files\androidTestingCompletedV\testng-appium-app-browserstack-sdk_Completed\android\testng-examples. Please include a browserstack.yml/browserstack.yaml file containing configuration for tests.
+	at com.browserstack.config.BrowserStackConfig.getInstance(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:491)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:503)
+

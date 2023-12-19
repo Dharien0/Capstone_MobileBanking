@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="scripts.MB04_ValidateWithdrawalAmount">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="MB_04"/>
+          <include name="setupReport"/>
+          <include name="endTest"/>
+          <include name="setUpRunEnv"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- scripts.MB04_ValidateWithdrawalAmount -->
+      <class name="scripts.MB03_ValidateBankTransfer">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="MB_03"/>
+          <include name="setupReport"/>
+          <include name="endTest"/>
+          <include name="setUpRunEnv"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- scripts.MB03_ValidateBankTransfer -->
+      <class name="scripts.MB02_ValidateCheckTransfer">
+        <methods>
+          <include name="MB_02"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="setupReport"/>
+          <include name="endTest"/>
+          <include name="setUpRunEnv"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- scripts.MB02_ValidateCheckTransfer -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
